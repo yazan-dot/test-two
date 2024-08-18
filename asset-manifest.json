@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/test-two/static/css/main.c5a1a97b.css",
+    "main.js": "/test-two/static/js/main.082f4ee3.js",
+    "static/media/logo.png": "/test-two/static/media/logo.e3e330fff92cc2fbf8bb.png",
+    "index.html": "/test-two/index.html",
+    "main.c5a1a97b.css.map": "/test-two/static/css/main.c5a1a97b.css.map",
+    "main.082f4ee3.js.map": "/test-two/static/js/main.082f4ee3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5a1a97b.css",
+    "static/js/main.082f4ee3.js"
+  ]
+}
